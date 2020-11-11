@@ -1,0 +1,35 @@
+
+Tables:
+Student_details
+Faculty_details
+Material_Store
+Users
+
+
+
+Users
+PRN
+Faculty_id
+Role
+
+Student_details
+Name
+Email_id
+Mobile_no
+PRN
+Current_year
+Division
+
+Faculty Details
+Name
+Email_id
+Faculty_id
+Mobile_no
+Subjects_granted
+
+Material_Store
+Name of Subject
+Unit
+PPT/PDF
+Time
+Faculty_name/Faculty_id
